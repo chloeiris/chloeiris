@@ -3,7 +3,7 @@
 - 😎 I'm very excited about finding a job as a Data Analyst in a company where I can grow and make an impact
 - 👀 I’m interested in NATURE, SCIENCE, HEALTH, and everything to do with WOMEN, SOCIETY, EDUCATION, PHILOSOPHY...
 - 💗 I LOVE medicinal 🌿plants and herbs🫒, coding in Python🐍, movies and popcorn🍿
-- 🌱 My next step is to learn JAVA
+- 🌱 My next step is to learn JAVA and continue learning Python
 - 💞️ I’m looking to collaborate on CREATIVE group projects that might CHANGE THE WORLD, and Technology Literacy projects for women and children.
 - 📫 How to reach me: Write me an email at chloearoca@gmail.com
                       Let's connect on LinkedIn https://www.linkedin.com/in/chloearoca/
