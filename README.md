@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chloeiris! Here you can find most of the projects I develop 💗
-- ✌️ I'm currently busy solving a Hackathon and developing a Personal Project (soon you will see!)
+- ✌️ I'm currently busy developing my Personal Projects (more updates soon!)
 - 😎 I'm very excited about finding a job as a Data Analyst in a company or project where I can grow and make an impact
 - 👀 I’m interested in NATURE, SCIENCE, HEALTH, and everything to do with WOMEN, SOCIETY, LANGUAGES, EDUCATION, PHILOSOPHY...
 - 💗 I LOVE medicinal 🌿plants and herbs🫒, coding in Python🐍, movies and popcorn🍿
