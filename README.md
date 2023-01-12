@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @chloeiris! Here you can find most of the projects I develop 💗
-- ✌️ I'm currently busy developing my Personal Projects (more updates soon!)
-- 😎 I'm very excited about finding a job as a Data Analyst in a company or project where I can grow and make an impact
-- 👀 I’m interested in NATURE, SCIENCE, HEALTH, and everything to do with WOMEN, SOCIETY, LANGUAGES, EDUCATION, PHILOSOPHY...
-- 💗 I LOVE medicinal 🌿plants and herbs🫒, coding in Python🐍, movies and popcorn🍿
-- 🌱 My next step is to learn SPARK, DJANGO and continue with Python and SQL
-- 💞️ I’m looking to collaborate on CREATIVE group projects that might CHANGE THE WORLD, and Technology Literacy projects for women and children.
-- 📫 How to reach me: Write me an email at chloearoca@gmail.com
-                      Let's connect on LinkedIn https://www.linkedin.com/in/chloearoca/
+- 👋 Hi, I’m @chloeiris! Here are my current projects:
+- ✌️ I'm currently developing Data Projects with Pyspark and Streamlit.
+- 😎 I'm excited about finding a job as a Data Analyst in a company where I can grow and make a positive impact.
+- 🌱 My next step is to learn FLASK, DJANGO and continue with Data Analytics with Python and SQL.
+- 👀 I’m interested in NATURE, SCIENCE, HEALTH, WOMEN IN TECH, LANGUAGES, EDUCATION and PHILOSOPHY.
+- 💗 I LOVE coding in Python🐍, movies and popcorn🍿
+- 💞️ I’m looking to collaborate on CREATIVE group projects like Technology Literacy for women and children.
+- 📫 Write me at chloearoca@gmail.com and connect on LinkedIn: https://www.linkedin.com/in/chloearoca/
                       
    
    
